@@ -8,6 +8,8 @@ Files included:
 - Primary Logo.png
 - index.html
 - secret recipe.html
+This change is from feature branch.
+
 
 Created for Git and file handling practice.
 Hello World!!
